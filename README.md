@@ -1,0 +1,2 @@
+# edutheme
+A wordpress theme
